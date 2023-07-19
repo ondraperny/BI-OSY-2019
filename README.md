@@ -1,7 +1,8 @@
-# BI-OSY-2019
+# C++ multithreading challenge
 
-Multi-thread C++ program to solve classic threading producer–consumer problem. Program is made so it can be tested by `libprogtest_solver`.
-To run test:
+Multi-thread C++ program to solve classic threading producer–consumer problem. The program is made so it can be tested by `libprogtest_solver`.
+To run the test:
+
 ```
 make
 ./test
